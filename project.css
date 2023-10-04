@@ -1,0 +1,38 @@
+/* navbar */
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#navbar{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    margin: 0px;
+    padding-top: 10px;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    
+}
+#navbar li a{
+    text-decoration: none;
+    margin: 20px;
+    
+}
+#navbar li{
+    list-style-type: none;
+}
+#navbar li a img{
+    width: 110px;
+    margin-right: 200px;
+}
+
+#Download{
+    margin-left: 150px;
+    background-color: #0e0e65;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+#Download a{
+    color: white;
+}
+/* navbar */
