@@ -36,3 +36,28 @@ body{
     color: white;
 }
 /* navbar */
+/* landing page */
+.landing{
+    display: flex;
+    justify-content: center;
+    background-image: url('https://itemsstore.net/html/trito/img/hero/1.jpg');
+
+}
+
+.landing div img{
+    width: 450px;
+    padding-top: 100px;
+}
+.intro{
+    font-size: 40px;
+}
+.intro1{
+    font-size: 80px;
+}
+.intro2{
+    font-size: 30px;
+}
+.introo{
+    padding-top: 100px;
+    
+}
