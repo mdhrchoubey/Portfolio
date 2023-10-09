@@ -61,3 +61,129 @@ body{
     padding-top: 100px;
     
 }
+
+.intro3 span{
+    background-color: #3d1184;
+    padding: 10px 25px 10px 25px;
+    border: 2px solid hsl(0, 0%, 4%);
+    color: white;
+
+}
+
+#client{
+    background-color: #131353;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    width: 100%;
+    
+    
+}
+.client1{
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 600px;
+    font-size: 30px;
+}
+#image123{
+    display: flow-root run-in;
+    float: left;
+    width: 100%;
+}
+#temp{
+    background-color: #131353;
+    border: #131353 solid 15px;
+    padding-top: 20px;
+    
+}
+#image123 img{
+    transform: translate('-2566px 0px 0px');
+    transition: all 1s ease 1s;
+    transition-duration: 1s;
+    width: 250px;
+}
+/* client section */
+.Skill1{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.Skill1 div img{
+    width: 50px;
+}
+.Skill1 div span{
+    font-size: 30px;
+    font-weight: 700;
+}
+.div1{
+    padding: 40px;
+    border-right: 2px solid grey;
+}
+/* myskil */
+.Certi{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    padding: 70px 150px 70px 150px;
+
+}
+.Certi .certi2{
+    background-image: url('https://itemsstore.net/html/trito/img/skills/1.jpg');
+}
+.Certi .certi2 ul li{
+    border: 2px solid #1f1f36;
+    list-style-type: none;
+    margin: 30px;
+    padding: 15px;
+    background-color: white;
+}
+.Certi .certi2 ul{
+    display: flex;
+
+}
+.certi1{
+    margin: 30px;
+}
+/* end of client section */
+/* ============================================= */
+.family{
+    display: flex;
+    justify-content: center;
+    
+}
+.family div{
+    margin: 35px;
+}
+.family div a{
+    font-size: 30px;
+}
+/* about my self=================== */
+
+.about{
+    display: flex;
+    justify-content: center;
+    background-image: url('https://itemsstore.net/html/trito/img/about/background.jpg');
+}
+.about .about1{
+    margin-top: 80px;
+    padding-top: 5px;
+}
+.about2{
+    margin-bottom: 18px;
+}
+.about3{
+    margin-bottom: 30px;
+}
+.about4 span{
+    background-color: #3d1184;
+    padding: 10px 25px 10px 25px;
+    border: 2px solid hsl(0, 0%, 4%);
+    color: white;
+  
+}
+.about4{
+    margin-top: 50px;
+}
+/* end of about my self==================== */
